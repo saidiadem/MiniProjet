@@ -19,7 +19,7 @@ The system follows an intuitive menu-driven interface, providing a seamless user
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Compile and run the `UniversityManagementSystem` class.
+2. Compile and run the `Main` class.
 3. Follow the on-screen instructions to interact with the system.
 
 ## Dependencies
